@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rdfyne.github.io/archive-1f7x9z/sitemap.xml
